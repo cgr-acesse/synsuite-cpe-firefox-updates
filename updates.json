@@ -3,14 +3,14 @@
     "synsuite-cpe@acesse.net.br": {
       "updates": [
         {
-          "version": "1.23.2",
-          "update_link": "https://raw.githubusercontent.com/cgr-acesse/synsuite-cpe-firefox-updates/main/synsuite-cpe-1.23.2.xpi",
-          "update_hash": "sha256:4d919d5ea27042ba5db3f1c675204c21a51f820352bc366694c938a09dfb0755",
+          "version": "1.23.3",
+          "update_hash": "sha256:01b76f0e5d50db362360146643c643e7f80c6b122791bbfb6476400e2ae61e6f",
           "applications": {
             "gecko": {
               "strict_min_version": "142.0"
             }
-          }
+          },
+          "update_link": "https://raw.githubusercontent.com/cgr-acesse/synsuite-cpe-firefox-updates/main/synsuite-cpe-1.23.3.xpi"
         }
       ]
     }
